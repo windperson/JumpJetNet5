@@ -1,0 +1,15 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 16
+VisualStudioVersion = 16.0.0.0
+MinimumVisualStudioVersion = 16.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpyJetNet5.Windows", "JumpyJetNet5.Windows\JumpyJetNet5.Windows.csproj", "{B72A5843-70D4-4376-AA1B-6498122084A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpyJetNet5.Game", "JumpyJetNet5.Game\JumpyJetNet5.Game.csproj", "{7B15BBAD-1A16-46BC-B48E-AC60491078A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpyJetNet5.Linux", "JumpyJetNet5.Linux\JumpyJetNet5.Linux.csproj", "{B5DE0C17-5C73-49A0-AD32-51878BFC369D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpyJetNet5.macOS", "JumpyJetNet5.macOS\JumpyJetNet5.macOS.csproj", "{FF8F0C96-501F-4C28-8666-B0787E081F4D}"
+EndProject
+Global
+EndGlobal
